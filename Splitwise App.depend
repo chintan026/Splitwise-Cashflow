@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623330112 source:e:\projects\splitwise app\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<set>
+
